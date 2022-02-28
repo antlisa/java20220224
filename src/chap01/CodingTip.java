@@ -13,7 +13,7 @@ public class CodingTip {
 		System.out.println("출력할 텍스트");
 		System.out.println("출력할 텍스트");
 		
-		// 실행 : ctrl + f11
+		// 실행 : fn + command + f11 또는 ctrl + f11 
 		
 		// 주석 : ctrl + /
 		

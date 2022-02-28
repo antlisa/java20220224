@@ -14,7 +14,7 @@ public class C01Variable {
 //		int int; // 안됨
 		int name; // ok
 //		int 3name; // 안됨
-		int my_name // ok but not recommended; use lowerCamelCase instead
+		int my_name; // ok but not recommended; use lowerCamelCase instead
 		
 		// 변수명 작성 관습
 		// lowerCamelCase
