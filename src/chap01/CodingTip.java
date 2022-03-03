@@ -19,6 +19,8 @@ public class CodingTip {
 		
 		// 창크기 변경 : ctrl + m
 		
+		// 줄맞추기: commmand + shift + f
+		
 		// 새파일 : ctrl + n
 		
 		// 저장: ctrl + s
