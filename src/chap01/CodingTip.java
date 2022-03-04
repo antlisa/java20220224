@@ -19,7 +19,7 @@ public class CodingTip {
 		
 		// 창크기 변경 : ctrl + m
 		
-		// 줄맞추기: commmand + shift + f
+		// 줄맞추기 및 array 에서 공간 자동 띄어쓰기: commmand + shift + f
 		
 		// 새파일 : ctrl + n
 		
